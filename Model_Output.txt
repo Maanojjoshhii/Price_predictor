@@ -1,0 +1,13 @@
+1.Decision Tree Regression
+
+    Mean:  4.544063683943468
+    Standard deviation:  0.8284299679972245
+
+2.Linear Tree Regression
+
+    Mean:  5.0381776556163445
+    Standard deviation:  1.0685454711051754
+
+3.RandomForestRegressor
+    Mean:  3.2996204698183695
+    Standard deviation:  0.6666324661398481
